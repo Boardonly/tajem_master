@@ -1,0 +1,19 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1600px;
+}
+.About{
+    
+}
+.wrapper{
+    max-width: 940px;
+    display: block;
+}
+
+.navbar{
+   
+}
